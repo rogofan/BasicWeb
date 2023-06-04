@@ -1,0 +1,21 @@
+{
+  "name": "nextjs-course",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@types/react-burger-menu": "^2.8.3",
+    "@types/react-icons": "^3.0.0",
+    "@types/styled-jsx": "^3.4.4",
+    "framer-motion": "^10.12.4",
+    "next": "^13.2.4",
+    "react-burger-menu": "^3.0.9",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.8.0",
+    "styled-jsx": "^5.1.2"
+  }
+}
